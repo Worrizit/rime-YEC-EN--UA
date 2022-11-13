@@ -83,7 +83,8 @@ use_preset_vocabulary: true
 開	e
 夫	qyo
 天	a
-無	qyo
+無	qyo	95%
+無	qo	5%
 元	qye
 專	a
 雲	ve
@@ -93,8 +94,8 @@ use_preset_vocabulary: true
 五	qo
 支	a
 廳	an
-不	ye  1%
-不  yec 99%
+不	ye	1%
+不	yec	99%
 太	a
 犬	a
 區	yo
@@ -159,7 +160,8 @@ use_preset_vocabulary: true
 勾	qyo
 文	qye
 六	qienc
-方	qyan
+方	qyan	0%
+方	yan	100%
 火	a
 為	va
 鬥	e
@@ -236,8 +238,8 @@ use_preset_vocabulary: true
 只	a
 央	yan
 兄	yan
-叼  a
-刁  a
+叼	a
+刁	a
 叫	a
 另叨	a
 歎	a
@@ -250,7 +252,7 @@ use_preset_vocabulary: true
 仗	danl
 代	qe
 仙	tia
-們  qe
+們	qe
 儀	qya
 白	quanc
 仔	tie
@@ -261,7 +263,7 @@ use_preset_vocabulary: true
 叢	qen
 令	qia
 用	qion
-甩  soc
+甩	soc
 印	io
 樂	qua
 句	qyo
@@ -331,7 +333,7 @@ use_preset_vocabulary: true
 老	qa
 執	evc
 鞏	yon
-圾  qyevc
+圾	qyevc
 擴	qan
 掃	a
 地	qo
@@ -393,7 +395,7 @@ use_preset_vocabulary: true
 吃	yec
 因	io
 吸	yevc
-嗎  qua
+嗎	qua
 嶼	diel
 帆	qyev
 歲	tiaj
@@ -406,16 +408,16 @@ use_preset_vocabulary: true
 年	qa
 朱	o
 先	ta
-丟  tie
+丟	tie
 舌	quac
 竹	tenc
 遷	tia
 喬	ya
 偉	vej
 傳	da
-乒  en
-乓  an
-淜  en
+乒	en
+乓	an
+淜	en
 休	ye
 伍	qo
 伏	qye
@@ -446,8 +448,8 @@ use_preset_vocabulary: true
 兆	dal
 企	ia
 眾	en
-爺  qia
-耶  qia
+爺	qia
+耶	qia
 傘	a
 創	san
 肌	yo
@@ -554,7 +556,7 @@ use_preset_vocabulary: true
 壞	uej
 擾	qa
 拒	qyel
-找  sua
+找	sua
 批	aj
 扯	a
 址	e
@@ -645,7 +647,7 @@ use_preset_vocabulary: true
 串	ua
 員	ve
 聽	an
-吩  ye
+吩	ye
 吹	a
 嗚	o
 吧	ua
@@ -693,7 +695,7 @@ use_preset_vocabulary: true
 妥	a
 含	qev
 鄰	qio
-岔  tua
+岔	tua
 肝	a
 肚	qol
 腸	dan
@@ -735,8 +737,8 @@ use_preset_vocabulary: true
 弟	qajl
 汪	an
 沙	sua
-汽  yec
-汔  yec
+汽	yec
+汔	yec
 沃	onc
 泛	yev
 溝	e
@@ -824,13 +826,13 @@ use_preset_vocabulary: true
 拍	uanc
 者	a
 頂	an
-拆  tuanc
+拆	tuanc
 擁	yon
 抵	aj
 拘	yo
 勢	aj
 抱	qal
-垃  qevc
+垃	qevc
 拉	qevc
 攔	qa
 拌	a
@@ -883,7 +885,7 @@ use_preset_vocabulary: true
 奮	ye
 態	e
 歐	e
-壟  qion
+壟	qion
 妻	taj
 轟	uen
 頃	ian
@@ -916,8 +918,8 @@ use_preset_vocabulary: true
 典	a
 固	o
 忠	ten
-咐  qyo
-苻  qyo
+咐	qyo
+苻	qyo
 呼	o
 鳴	qyan
 詠	van
@@ -1045,8 +1047,8 @@ use_preset_vocabulary: true
 泥	qaj
 沸	yej
 波	a
-潑  ac
-鏺  ac
+潑	ac
+鏺	ac
 澤	duanc
 治	de
 怖	o
@@ -1125,7 +1127,7 @@ use_preset_vocabulary: true
 封	yon
 持	de
 項	quonl
-垮  o
+垮	o
 挎	o
 城	qan
 撓	a
@@ -1140,10 +1142,10 @@ use_preset_vocabulary: true
 挑	a
 指	o
 墊	av
-掙  suen
+掙	suen
 擠	taj
 拼	uen
-挖  ac
+挖	ac
 按	a
 揮	yej
 挪	qa
@@ -1179,17 +1181,17 @@ use_preset_vocabulary: true
 要	ia
 鹹	quev
 威	yej
-歪  uej
+歪	uej
 研	qa
 磚	a
 厘	qie
 厚	qel
 砌	taj
-砍  ev
-坎  ev
+砍	ev
+坎	ev
 面	qia
 耐	qe
-耍  sual
+耍	sual
 牽	a
 殘	qa
 殃	yan
@@ -1216,7 +1218,7 @@ use_preset_vocabulary: true
 星	tan
 昨	qanc
 畏	yej
-趴  uec
+趴	uec
 胃	vej
 貴	yej
 界	uej
@@ -1224,7 +1226,7 @@ use_preset_vocabulary: true
 蝦	qua
 蟻	qya
 思	tie
-螞  qua
+螞	qua
 雖	tio
 品	yev
 咽	a
@@ -1235,7 +1237,7 @@ use_preset_vocabulary: true
 哈	qevc
 咬	ua
 咳	qe
-哪  qa
+哪	qa
 炭	a
 峽	quevc
 罰	qyec
@@ -1252,7 +1254,7 @@ use_preset_vocabulary: true
 拜	uej
 看	a
 矩	yo
-怎  te
+怎	te
 牲	san
 選	tia
 適	anc
@@ -1266,7 +1268,7 @@ use_preset_vocabulary: true
 竿	a
 段	qa
 便	qia
-倆  qian
+倆	qian
 貸	e
 順	vo
 修	tie
@@ -1304,13 +1306,13 @@ use_preset_vocabulary: true
 獨	qenc
 狡	ua
 獄	qyonc
-狠  qel
+狠	qel
 貿	qe
 怨	ye
 急	yevc
 饒	qa
 蝕	venc
-餃  ua
+餃	ua
 餅	ian
 彎	ua
 將	tian
@@ -1322,9 +1324,9 @@ use_preset_vocabulary: true
 跡	tianc
 庭	qan
 瘡	san
-瘋  yen
+瘋	yen
 疫	qianc
-疤  ua
+疤	ua
 姿	tio
 親	tio
 音	yev
@@ -1345,7 +1347,7 @@ use_preset_vocabulary: true
 首	e
 逆	qyanc
 總	en
-煉  qa
+煉	qa
 炸	qiavc
 炮	qua
 爛	qa
@@ -1419,7 +1421,7 @@ use_preset_vocabulary: true
 怠	qel
 柔	qe
 壘	qio
-綁  an
+綁	an
 絨	qen
 結	ac
 繞	qa
@@ -1454,7 +1456,7 @@ use_preset_vocabulary: true
 捏	qac
 埋	quej
 捉	suonc
-捆  e
+捆	e
 捐	qia
 損	e
 都	o
@@ -1523,14 +1525,14 @@ use_preset_vocabulary: true
 曉	a
 鴨	uavc
 晃	qanl
-晌  an
+晌	an
 暈	ve
 蚊	qye
 哨	tia
 哭	enc
 恩	e
 喚	a
-啊  a
+啊	a
 唉	e
 罷	qya
 峰	yon
@@ -1544,7 +1546,7 @@ use_preset_vocabulary: true
 鈴	qan
 鉛	qia
 缺	ac
-氧  qian
+氧	qian
 特	qenc
 犧	ya
 造	qal
@@ -1582,7 +1584,7 @@ use_preset_vocabulary: true
 徒	qo
 徐	die
 艦	quavl
-艙  an
+艙	an
 般	qa
 航	qan
 途	qo
@@ -1638,7 +1640,7 @@ use_preset_vocabulary: true
 料	qa
 益	ianc
 兼	av
-烤  a
+烤	a
 烘	qen
 煩	qye
 燒	a
@@ -1661,7 +1663,7 @@ use_preset_vocabulary: true
 浪	qan
 浸	tiev
 漲	tan
-燙  qan
+燙	qan
 湧	qion
 悟	qo
 悄	tia
@@ -1750,7 +1752,7 @@ use_preset_vocabulary: true
 萄	qa
 菊	yenc
 萍	qan
-菠  a
+菠	a
 營	qian
 械	quej
 夢	qyen
@@ -1762,7 +1764,7 @@ use_preset_vocabulary: true
 桶	en
 救	ye
 副	ye
-票  ia
+票	ia
 戚	tanc
 爽	san
 聾	qen
@@ -1770,7 +1772,7 @@ use_preset_vocabulary: true
 盛	qan
 雪	tiac
 輔	qyol
-輛  qian
+輛	qian
 虛	ye
 雀	tianc
 堂	qan
@@ -1782,7 +1784,7 @@ use_preset_vocabulary: true
 眼	que
 懸	qa
 野	qel
-啦  qevc
+啦	qevc
 晚	qye
 啄	enc
 距	qyel
@@ -1810,13 +1812,13 @@ use_preset_vocabulary: true
 符	qyo
 第	qaj
 敏	qyo
-做  o
+做	o
 袋	qe
 悠	qie
 償	qan
 偶	qe
 偷	e
-您  nev
+您	nev
 售	qe
 停	qan
 偏	ia
@@ -1843,7 +1845,7 @@ use_preset_vocabulary: true
 獵	qiavc
 貓	qya
 猛	quan
-餡  quev
+餡	quev
 館	a
 湊	e
 減	quevl
@@ -1879,7 +1881,7 @@ use_preset_vocabulary: true
 漸	tiav
 混	qel
 漁	qye
-淘  qia
+淘	qia
 液	qianc
 淡	qav
 深	ev
@@ -1901,7 +1903,7 @@ use_preset_vocabulary: true
 窯	qia
 密	qyoc
 謀	qye
-謊  han
+謊	han
 禍	qal
 謎	qaj
 逮	qaj
@@ -1913,7 +1915,7 @@ use_preset_vocabulary: true
 隆	qien
 隱	ye
 婚	e
-嬸  ev
+嬸	ev
 頸	qian
 績	tanc
 緒	diel
@@ -1946,7 +1948,7 @@ use_preset_vocabulary: true
 煮	e
 援	ve
 裁	qe
-擱  anc
+擱	anc
 摟	qio
 攪	ua
 握	uonc
@@ -1960,7 +1962,7 @@ use_preset_vocabulary: true
 葬	an
 葛	ac
 董	en
-葡  qo
+葡	qo
 敬	yan
 蔥	en
 落	qanc
@@ -2004,8 +2006,8 @@ use_preset_vocabulary: true
 量	qian
 噴	e
 晶	tian
-喇  qac
-辢  qac
+喇	qac
+辢	qac
 遇	qyo
 喊	av
 景	yan
@@ -2023,7 +2025,7 @@ use_preset_vocabulary: true
 幅	yenc
 帽	qa
 賭	o
-賠  qe
+賠	qe
 黑	enc
 鑄	o
 鋪	yo
@@ -2032,8 +2034,8 @@ use_preset_vocabulary: true
 鎖	a
 鋤	re
 鍋	a
-鏽  tie
-銹  tie
+鏽	tie
+銹	tie
 鋒	yon
 銳	qiaj
 短	a
@@ -2116,7 +2118,7 @@ use_preset_vocabulary: true
 寒	qa
 富	ye
 竄	a
-窩  ya
+窩	ya
 窗	suon
 遍	a
 裕	qio
@@ -2147,7 +2149,7 @@ use_preset_vocabulary: true
 摸	qo
 填	to
 搏	yo
-塌  qavc
+塌	qavc
 鼓	o
 擺	ue
 攜	qaj
@@ -2180,8 +2182,8 @@ use_preset_vocabulary: true
 礙	qe
 碑	ya
 碎	e
-碰  quan
-掽  quan
+碰	quan
+掽	quan
 碗	a
 碌	qenc
 雷	qe
@@ -2194,7 +2196,7 @@ use_preset_vocabulary: true
 鑒	uav
 睛	tian
 睡	qa
-睬  e
+睬	e
 鄙	yo
 愚	qyo
 暖	qa
@@ -2210,8 +2212,8 @@ use_preset_vocabulary: true
 遣	ia
 蛾	qa
 蜂	qen
-嗓  an
-顙  an
+嗓	an
+顙	an
 置	te
 罪	qel
 罩	tua
@@ -2227,8 +2229,8 @@ use_preset_vocabulary: true
 稠	de
 愁	re
 籌	de
-簽  tiav
-籖  tiav
+簽	tiav
+籖	tiav
 簡	ue
 毀	ya
 舅	qyel
@@ -2236,8 +2238,8 @@ use_preset_vocabulary: true
 催	e
 傻	sua
 像	dianl
-躲  a
-躱  a
+躲	a
+躱	a
 微	qyej
 愈	qio
 遙	qia
@@ -2264,12 +2266,12 @@ use_preset_vocabulary: true
 滿	qa
 漠	qanc
 源	qye
-濾  qie
+濾	qie
 濫	quavl
 滔	a
 溪	aj
 溜	qie
-滾  e
+滾	e
 濱	io
 粱	qian
 灘	a
@@ -2298,7 +2300,7 @@ use_preset_vocabulary: true
 誓	qaj
 境	yan
 摘	tuenc
-摔  soc
+摔	soc
 聚	diol
 蔽	iaj
 慕	qo
@@ -2377,12 +2379,12 @@ use_preset_vocabulary: true
 縮	senc
 慧	qaj
 撕	taj
-撒  ac
-攃  ac
+撒	ac
+攃	ac
 趣	e
 趟	tuan
-撐  tuan
-橕  tuan
+撐	tuan
+橕	tuan
 播	a
 撞	duon
 撤	dac
@@ -2447,4 +2449,5 @@ use_preset_vocabulary: true
 峰	yon
 
 #詞組
-不通話  yec en qua
+不通話	yec en qua
+南無	qev qo
